@@ -49,9 +49,3 @@
     transform: rotateX(25deg) translateZ(-2500px);
   }
 }
-
-.scrollable {
-  overflow-y: auto  !important;
-  overflow-x: hidden !important;
-  height: 700px;
-}
